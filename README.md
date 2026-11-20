@@ -21,6 +21,6 @@
 - 비고: 원작·포크 모두 LICENSE 없음(2026-11-20 확인). 재사용 허락 미확인, 사용 전 원작자 확인 필요. 권리자 요청 시 즉시 내림
 
 ### Everyday Game 캔버스 2D 절차적 드로잉 코드 11종
-- 파일: `everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip` (JavaScript 11개: 방어탑 9종·전동차·노점·거위·가구 등 Canvas2D 코드 드로잉)
+- 파일: `everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip` (JavaScript 11개: 방어탑 9종·전동차·노점·거위·가구 등 Three.js 절차적 3D, 캔버스 2D는 텍스처 생성용)
 - 제작: zhgarylu / 라이선스: 알 수 없음 / 원본: https://github.com/zhgarylu/everyday-game
 - 비고: 원작·포크 모두 LICENSE 없음(2026-11-20 확인). 재사용 허락 미확인, 사용 전 원작자 확인 필요. 권리자 요청 시 즉시 내림
