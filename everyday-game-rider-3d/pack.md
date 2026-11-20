@@ -20,4 +20,4 @@
 - 원작 README 기준 AI(Claude Fable 5.2) 작성 코드입니다.
 
 - 출처: https://github.com/zhgarylu/everyday-game · 한글판 포크: https://github.com/sigco3111/everyday-game
-- 수집일: 2026-11-20 · 파일: everyday-game-rider-3d.zip
+- 수집일: 2026-11-20 · 파일: 14-everyday-game-rider-3d.zip
