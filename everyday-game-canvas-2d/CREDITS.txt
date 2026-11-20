@@ -1,4 +1,4 @@
-everyday-game 캔버스 2D 절차적 드로잉 코드 11종 (Everyday Game - canvas 2D drawing code)
+everyday-game 절차적 3D 코드 11종(Three.js) (Everyday Game - procedural 3D code, Three.js)
 
 Original work: everyday-game (回声游戏厅 · 每天一个小游戏) by zhgarylu
 https://github.com/zhgarylu/everyday-game (no LICENSE; see LICENSE-SOURCE.txt)
