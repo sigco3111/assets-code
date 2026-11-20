@@ -24,4 +24,4 @@ everyday-game 모음집의 Canvas2D 게임 11개 소스입니다. 이미지 에�
 - 원작 README 기준 AI(Claude Fable 5.2) 작성 코드입니다.
 
 - 출처: https://github.com/zhgarylu/everyday-game · 한글판 포크: https://github.com/sigco3111/everyday-game
-- 수집일: 2026-11-20 · 파일: everyday-game-canvas-2d.zip
+- 수집일: 2026-11-20 · 파일: 34-everyday-game-canvas-2d.zip
