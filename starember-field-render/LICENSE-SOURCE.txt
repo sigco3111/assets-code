@@ -1,0 +1,12 @@
+Starember Field Render Modules - license provenance (written by the collector)
+
+Source: https://github.com/weit0529/gamedemo_by_Fable5.2 (commit 7df12d1),
+MIT (Copyright (c) 2026 weit0529), LICENSE.txt included verbatim.
+
+Scope note: the upstream LICENSE covers source code only and excludes the
+character design images, the avatars cropped from them, and the AI company
+names/logos. NONE of those excluded materials are in this pack: it contains
+code only. Rendering modules that draw company logos (src/char/logos.ts), the
+8 specific character assemblies (src/char/roster.ts) and the AI-company houses
+(src/world/houses.ts, src/world/aiprops.ts) are deliberately NOT included.
+Keep LICENSE.txt with the pack when redistributing.

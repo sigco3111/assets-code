@@ -1,0 +1,12 @@
+Starember Field Procedural Character Toolkit - license provenance (written by the collector)
+
+Source: https://github.com/weit0529/gamedemo_by_Fable5.2 (commit 7df12d1),
+MIT (Copyright (c) 2026 weit0529), LICENSE.txt included verbatim.
+
+Scope note: the upstream LICENSE covers source code only and excludes the
+character design images (copyright ZipZipPipe), the avatars cropped from them,
+and the AI company names/logos. NONE of those are in this pack. The generic
+part/rig/animation machinery is included; the 8 specific character assemblies
+(roster.ts) and company emblem drawing code (logos.ts) are deliberately NOT
+included because they reproduce third-party character designs and trademarks.
+Keep LICENSE.txt with the pack when redistributing.

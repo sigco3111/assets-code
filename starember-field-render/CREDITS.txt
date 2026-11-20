@@ -1,0 +1,7 @@
+Starember Field Render Modules (별잿빛 들판 렌더링 모듈)
+
+Original code: gamedemo_by_Fable5.2 (星烬原野) by weit0529
+https://github.com/weit0529/gamedemo_by_Fable5.2 (MIT, Copyright (c) 2026 weit0529)
+The upstream LICENSE applies and is included as LICENSE.txt.
+Extracted and packaged by the Korean localization project
+(https://github.com/sigco3111/gamedemo-by-fable5.2-ko).
