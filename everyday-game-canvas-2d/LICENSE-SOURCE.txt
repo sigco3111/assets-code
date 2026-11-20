@@ -1,4 +1,4 @@
-Everyday Game - canvas 2D procedural drawing code (11 games) - license provenance (written by the collector)
+Everyday Game - procedural 3D code, Three.js (11 games) - license provenance (written by the collector)
 
 Source: https://github.com/zhgarylu/everyday-game (original, commit 4cfdf20)
 Mirror: https://github.com/sigco3111/everyday-game (unofficial Korean
