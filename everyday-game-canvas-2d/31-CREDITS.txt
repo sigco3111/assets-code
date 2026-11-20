@@ -1,0 +1,10 @@
+everyday-game 캔버스 2D 절차적 드로잉 코드 11종 (Everyday Game - canvas 2D drawing code)
+
+Original work: everyday-game (回声游戏厅 · 每天一个小游戏) by zhgarylu
+https://github.com/zhgarylu/everyday-game (no LICENSE; see LICENSE-SOURCE.txt)
+Per the original README, the code was written by the AI Claude Fable 5.2 for
+the repository author.
+Korean localization fork: https://github.com/sigco3111/everyday-game
+Live collection: https://sigco3111.github.io/everyday-game/
+Collected and packaged 2026-11-20 with the license marked "알 수 없음"
+(unknown) at the catalog owner's instruction.
