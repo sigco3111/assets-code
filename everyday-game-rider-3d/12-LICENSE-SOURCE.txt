@@ -1,0 +1,21 @@
+Everyday Game - rider/gz procedural 3D code - license provenance (written by the collector)
+
+Source: https://github.com/zhgarylu/everyday-game (original, commit 4cfdf20)
+Mirror: https://github.com/sigco3111/everyday-game (unofficial Korean
+localization fork; the JS in this pack is the fork's localized copy of the
+same game code)
+
+License: UNKNOWN ("알 수 없음"). As of 2026-11-20 neither the original
+repository nor the fork contains a LICENSE file or any license grant covering
+the game's own code and assets. The only license present is
+vendor/three/LICENSE (MIT), which covers the bundled three.js library only.
+No permission from the original author has been confirmed.
+
+Per the original README, the code was written by the AI Claude Fable 5.2 for
+the repository author.
+
+This pack was registered at the owner's explicit instruction with the license
+marked "알 수 없음" (unknown). This registration is NOT a rights grant:
+contact the original author (zhgarylu) before reuse. If the rights holder
+requests removal, the pack is taken down immediately via the catalog Issues
+page: https://github.com/sigco3111/game-asset-catalog/issues
