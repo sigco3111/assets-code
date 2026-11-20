@@ -1,0 +1,6 @@
+Klarbase 절차적 섬 월드 생성 코드 (procedural island world code, Klarbase)
+
+Original work: Klarbase by TanmoyP and Klarbase contributors
+https://github.com/TanmoyP/klarbase (MIT, Copyright (c) 2026 TanmoyP and Klarbase contributors)
+Korean localization fork (extraction copy): https://github.com/sigco3111/klarbase-ko
+Collected and packaged 2026-11-20. Keep the MIT notice (LICENSE.txt).

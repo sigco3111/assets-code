@@ -1,0 +1,6 @@
+Cadle WebAudio 합성 음향 엔진 (synthesized audio engine, Cadle)
+
+Original work: Cadle by Ian Cadle (Humpalumps)
+https://github.com/Humpalumps/Cadle (MIT, Copyright (c) 2026 Ian Cadle)
+Korean localization fork (extraction copy): https://github.com/sigco3111/cadle-ko
+Collected and packaged 2026-11-20. Keep the MIT notice (LICENSE.txt).

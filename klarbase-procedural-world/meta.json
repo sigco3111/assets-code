@@ -1,0 +1,15 @@
+{
+ "name": "Klarbase 절차적 섬 월드 생성 코드",
+ "slug": "klarbase-procedural-world",
+ "zip": "klarbase-procedural-world.zip",
+ "file": "klarbase-procedural-world/klarbase-procedural-world.zip",
+ "author": "TanmoyP and Klarbase contributors",
+ "url": "https://github.com/TanmoyP/klarbase",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 TanmoyP and Klarbase contributors)",
+ "date": "2026-11-20",
+ "tags": "code,javascript,procedural,world,island,terrain,trees,biome,puzzle,canvas",
+ "notes": "client/src/game 모듈 14개(world·ground·trees·props·fauna·biome·themes·pulley·pip·thumbs·softkit·audio 등, 약 3,500행). 모델·텍스처·오디오 파일 없이 코드로 섬 월드와 음향을 생성(원작 README 확인). MIT 전문 LICENSE.txt 동봉. 게임 결합 상태 참고용",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}

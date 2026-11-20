@@ -24,3 +24,13 @@
 - 파일: `everyday-game-canvas-2d/34-everyday-game-canvas-2d.zip` (JavaScript 11개: 방어탑 9종·전동차·노점·거위·가구 등 Three.js 절차적 3D, 캔버스 2D는 텍스처 생성용)
 - 제작: zhgarylu / 라이선스: 알 수 없음 / 원본: https://github.com/zhgarylu/everyday-game
 - 비고: 원작·포크 모두 LICENSE 없음(2026-11-20 확인). 재사용 허락 미확인, 사용 전 원작자 확인 필요. 권리자 요청 시 즉시 내림
+
+### Cadle WebAudio 합성 음향 엔진
+- 파일: `cadle-webaudio-synth/cadle-webaudio-synth.zip` (JavaScript 5개: 합성 기본기 synth.js, 총기·폭발 전량 합성 레시피 sfx.js, 생성 악곡 music.js, 환경음 ambient.js, 엔진 Audio.js)
+- 제작: Ian Cadle (Humpalumps) / 라이선스: MIT / 원본: https://github.com/Humpalumps/Cadle
+- 비고: 녹음 음원 없이 모든 음향을 실행 중 합성. 원작 NOTICE의 녹음 테이크(재배포 금지)는 미포함, 코드만 MIT로 수록
+
+### Klarbase 절차적 섬 월드 생성 코드
+- 파일: `klarbase-procedural-world/klarbase-procedural-world.zip` (JavaScript 14개: 월드·지형·바이옴·나무·소품·동물 절차적 생성, 약 3,500행)
+- 제작: TanmoyP and Klarbase contributors / 라이선스: MIT / 원본: https://github.com/TanmoyP/klarbase
+- 비고: 모델·텍스처·오디오 파일 없이 코드로 섬 월드를 생성(원작 README 확인). 게임 결합 상태 참고용

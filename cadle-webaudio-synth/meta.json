@@ -1,0 +1,15 @@
+{
+ "name": "Cadle WebAudio 합성 음향 엔진",
+ "slug": "cadle-webaudio-synth",
+ "zip": "cadle-webaudio-synth.zip",
+ "file": "cadle-webaudio-synth/cadle-webaudio-synth.zip",
+ "author": "Ian Cadle (Humpalumps)",
+ "url": "https://github.com/Humpalumps/Cadle",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Ian Cadle)",
+ "date": "2026-11-20",
+ "tags": "code,javascript,webaudio,synth,sfx,music,ambient,generative,procedural",
+ "notes": "synth.js(합성 기본기 noise·tone·fm·metal 등 137행), sfx.js(총기·폭발 전량 합성 레시피 209행), music.js(지역별 생성 악곡), ambient.js, Audio.js(엔진). 녹음 음원 없이 모든 음향을 합성하는 완전 경로. 원작 NOTICE: 녹음 테이크는 서비스 약관상 재배포 금지라 레포에 없고 코드는 MIT(NOTICE.txt 동봉). 게임 결합 상태 참고용",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (음향)"
+}
