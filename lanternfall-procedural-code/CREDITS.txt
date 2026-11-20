@@ -1,0 +1,6 @@
+LANTERNFALL 절차적 3D RPG 코드 (procedural 3D RPG code, LANTERNFALL)
+
+Original work: LANTERNFALL by loktar00
+https://github.com/loktar00/lanternfall (no license stated, checked 2026-11-20; reuse permission unconfirmed)
+Korean localization fork (extraction copy): https://github.com/sigco3111/lanternfall-ko
+Collected and packaged 2026-11-20.
