@@ -1,0 +1,5 @@
+Source: https://github.com/pajama-studio/lowpoly-tree-generator
+License: MIT
+Checked: 2026-11-23 (default branch clone, HEAD 4377dd6; upstream named in package metadata: https://github.com/rand-monster/lowpoly-tree-generator, same HEAD)
+Quote: MIT License / Copyright (c) 2026 Rand Monster contributors
+Dependencies (all MIT): Three.js, three-bvh-csg, three-mesh-bvh — see THIRD_PARTY_NOTICES.md

@@ -1,0 +1,7 @@
+Lowpoly Tree Generator (procedural low-poly tree generator code)
+
+Original work: Lowpoly Tree Generator by Rand Monster contributors
+https://github.com/pajama-studio/lowpoly-tree-generator (MIT License, checked 2026-11-23)
+Upstream repository named in package metadata: https://github.com/rand-monster/lowpoly-tree-generator (same HEAD 4377dd6)
+Runtime dependencies, all MIT: Three.js, three-bvh-csg, three-mesh-bvh (THIRD_PARTY_NOTICES.md)
+Collected and packaged 2026-11-23.
