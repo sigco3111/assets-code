@@ -1,0 +1,7 @@
+Procedural Animals for three.js (fully procedural animals: SDF bodies, auto rig/skin, fur/feathers/scales, IK gaits)
+
+Original work: procedural-animals by Majid Manzarpour and procedural-animals contributors
+https://github.com/majidmanzarpour/threejs-procedural-animals (MIT License, checked 2026-11-23, HEAD c95ae49)
+Showcase: https://majidmanzarpour.github.io/threejs-procedural-animals/
+Runtime dependency: three.js (MIT, peer dependency, not bundled)
+Collected and packaged 2026-11-23.

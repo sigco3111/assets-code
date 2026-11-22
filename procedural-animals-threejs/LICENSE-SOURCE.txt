@@ -1,0 +1,6 @@
+Source: https://github.com/majidmanzarpour/threejs-procedural-animals
+License: MIT
+Checked: 2026-11-23 (default branch main clone, HEAD c95ae49)
+Quote: MIT License / Copyright (c) 2026 Majid Manzarpour and procedural-animals contributors
+Dependency: three.js >=0.160 (MIT, peer dependency, not bundled)
+Bundled media: none (no models, no textures, no audio; animals are generated in code at runtime)

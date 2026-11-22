@@ -39,3 +39,8 @@
 - 파일: `geometry-painter-threejs/geometry-painter-threejs.zip` (TypeScript 24개: 표면 스트로크 페인팅 모드 시스템, 크리스탈·용암균열·오로라·발광산호 4모드, BVH 피킹·리샘플·컬링 배관, 단일 메커니즘 데모 10종)
 - 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/GeometryPainterThreeJS
 - 비고: 모델·텍스처 없는 코드 전용(WebGPU, WebGL2 폴백). npm run build 통과, WebGL2 렌더 확인(2026-11-23)
+
+### Procedural Animals 절차적 동물 24종 코드 (three.js)
+- 파일: `procedural-animals-threejs/procedural-animals-threejs.zip` (JavaScript 239파일 + 타입 선언: SDF 몸 조각·자동 리그/스킨·털/깃털/비늘·IK 보행/액션, 24종 6바디플랜, bake CLI 포함)
+- 제작: Majid Manzarpour and procedural-animals contributors / 라이선스: MIT / 원본: https://github.com/majidmanzarpour/threejs-procedural-animals
+- 비고: 모델·텍스처·애니메이션 클립 없는 코드 전용(실행 시 생성). node tools/test.mjs 24종 통과(2026-11-23). 베이크 샘플 6종은 assets-3d-lowpoly-2 procedural-animal-samples
