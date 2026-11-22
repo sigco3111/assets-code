@@ -34,3 +34,8 @@
 - 파일: `klarbase-procedural-world/klarbase-procedural-world.zip` (JavaScript 14개: 월드·지형·바이옴·나무·소품·동물 절차적 생성, 약 3,500행)
 - 제작: TanmoyP and Klarbase contributors / 라이선스: MIT / 원본: https://github.com/TanmoyP/klarbase
 - 비고: 모델·텍스처·오디오 파일 없이 코드로 섬 월드를 생성(원작 README 확인). 게임 결합 상태 참고용
+
+### Geometry Painter 표면 페인팅·절차적 3D 코드
+- 파일: `geometry-painter-threejs/geometry-painter-threejs.zip` (TypeScript 24개: 표면 스트로크 페인팅 모드 시스템, 크리스탈·용암균열·오로라·발광산호 4모드, BVH 피킹·리샘플·컬링 배관, 단일 메커니즘 데모 10종)
+- 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/GeometryPainterThreeJS
+- 비고: 모델·텍스처 없는 코드 전용(WebGPU, WebGL2 폴백). npm run build 통과, WebGL2 렌더 확인(2026-11-23)

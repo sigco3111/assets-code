@@ -1,0 +1,6 @@
+Source: https://github.com/achrefelouafi/GeometryPainterThreeJS
+License: MIT
+Checked: 2026-11-23 (default branch clone, HEAD 79c7556)
+Quote: MIT License / Copyright (c) 2026 mohamedachrefelouafi
+Code-only pack: no bundled models, textures or audio; all geometry and materials are generated procedurally in code.
+Dependencies (all MIT): three, lil-gui, three-mesh-bvh — see THIRD_PARTY_NOTICES.md

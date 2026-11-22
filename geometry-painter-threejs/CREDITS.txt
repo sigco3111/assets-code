@@ -1,0 +1,6 @@
+Geometry Painter (three.js WebGPU surface-painting playground)
+
+Original work: Geometry Painter — three.js WebGPU by mohamedachrefelouafi
+https://github.com/achrefelouafi/GeometryPainterThreeJS (MIT License, checked 2026-11-23, HEAD 79c7556)
+Runtime dependencies, all MIT: three, lil-gui, three-mesh-bvh (THIRD_PARTY_NOTICES.md)
+Collected and packaged 2026-11-23.

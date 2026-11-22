@@ -1,0 +1,15 @@
+{
+ "name": "Geometry Painter 표면 페인팅·절차적 3D 코드",
+ "slug": "geometry-painter-threejs",
+ "zip": "geometry-painter-threejs.zip",
+ "file": "geometry-painter-threejs/geometry-painter-threejs.zip",
+ "author": "mohamedachrefelouafi",
+ "url": "https://github.com/achrefelouafi/GeometryPainterThreeJS",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi)",
+ "date": "2026-11-23",
+ "tags": "code,typescript,threejs,webgpu,webgl2,tsl,shader,procedural,3d,crystals,surface-painting,effects",
+ "notes": "구 표면 스트로크 페인팅 플러그인형 모드 시스템(크리스탈·용암균열·오로라·발광산호 4모드 + BVH 피킹·앵커공간·리샘플·컬링·성장 공통 배관); TS 모듈 src 10개 + 단일 메커니즘 데모 10종; 모델·텍스처 없는 코드 전용; three·lil-gui·three-mesh-bvh 의존(모두 MIT, THIRD_PARTY_NOTICES 동봉); MIT 전문 LICENSE.txt 동봉; npm run build 통과·WebGL2 렌더 캡처 확인(2026-11-23)",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}
