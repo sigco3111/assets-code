@@ -35,6 +35,11 @@
 - 제작: TanmoyP and Klarbase contributors / 라이선스: MIT / 원본: https://github.com/TanmoyP/klarbase
 - 비고: 모델·텍스처·오디오 파일 없이 코드로 섬 월드를 생성(원작 README 확인). 게임 결합 상태 참고용
 
+### Lowpoly Tree Generator 절차적 나무 생성 코드
+- 파일: `lowpoly-tree-generator/lowpoly-tree-generator.zip` (JavaScript 7모듈: CSG 용접 트렁크·뿌리·가지, 클러스터 캐노피, 아키타입 6종, 덩굴 옵션, GLB 내보내기)
+- 제작: Rand Monster contributors / 라이선스: MIT / 원본: https://github.com/pajama-studio/lowpoly-tree-generator
+- 비고: three·three-bvh-csg·three-mesh-bvh 의존(모두 MIT). node --test 21개 통과(2026-11-23). 생성 샘플은 assets-3d-lowpoly-2 lowpoly-tree-samples
+
 ### Geometry Painter 표면 페인팅·절차적 3D 코드
 - 파일: `geometry-painter-threejs/geometry-painter-threejs.zip` (TypeScript 24개: 표면 스트로크 페인팅 모드 시스템, 크리스탈·용암균열·오로라·발광산호 4모드, BVH 피킹·리샘플·컬링 배관, 단일 메커니즘 데모 10종)
 - 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/GeometryPainterThreeJS
