@@ -1,0 +1,8 @@
+Elemental Sandbox 스킬 VFX 코드 모듈 (LinearAbilityExtThreeJS)
+
+Original work: LinearAbilityExtThreeJS (Elemental Sandbox) by mohamedachrefelouafi
+https://github.com/achrefelouafi/LinearAbilityExtThreeJS (MIT, Copyright (c) 2026 mohamedachrefelouafi)
+Scope: src/ code modules (abilities, materials, effects, shaders, particles, utils; legacy src/archive excluded).
+NOT included: Mixamo character FBX animations and diffuse.png (Mixamo assets may not be redistributed),
+textures.glb (origin unverifiable), docs/screenshots.
+Collected and packaged 2026-11-23. Keep the MIT notice (LICENSE.txt).
