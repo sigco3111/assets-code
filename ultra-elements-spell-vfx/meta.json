@@ -1,0 +1,15 @@
+{
+ "name": "Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)",
+ "slug": "ultra-elements-spell-vfx",
+ "zip": "ultra-elements-spell-vfx.zip",
+ "file": "ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip",
+ "author": "Humpalumps (Ultra Elements), 데모 어댑트: Patch",
+ "url": "https://github.com/Humpalumps/ultra-elements",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Humpalumps / Patch)",
+ "date": "2026-11-23",
+ "tags": "code,javascript,threejs,webgl2,glsl,vfx,spells,magic,particles,fluid,fire,water,lightning,procedural,game",
+ "notes": "원소 주문 39종(번개·불·물·얼음·대지·바람·공허·빛·산성·비전·혼합) GPU 실시간 시뮬레이션: FLIP 유체, 연소 솔버, 레이마칭 볼륨, 번개, 중력 렌즈, 바닥 반응(그을음·서리·균열). 텍스처·모델·사운드 없이 전량 코드 생성. elements.js(프레임 루프·cast API, Patch가 게임용으로 어댑트), lib-ultra-elements(주문·엔진, Humpalumps), spells.json(411개 설정·프리셋), tuning.js. three 0.186.1 고정, 주문 로딩은 Vite import.meta.glob 사용. MIT 전문 LICENSE.txt·LICENSE-ultra-elements.txt·THIRD_PARTY_NOTICES 동봉",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}

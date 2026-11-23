@@ -54,3 +54,8 @@
 - 파일: `elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip` (JavaScript·GLSL src 전체(archive 제외): 스킬 7종(Pyre·ElectricalSphere·Portal·FirePortal·Kraken·Earth·AetherRing)·기반/매니저·GLSL 머티리얼 17종·이펙트/파티클 라이브러리)
 - 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/LinearAbilityExtThreeJS
 - 비고: 참고용 원본 코드. MIT 전문 동봉. Mixamo FBX·diffuse.png(재배포 금지), textures.glb(출처 불명)는 제외
+
+### Ultra Elements 원소 주문 VFX 코드 39종 (Three.js·WebGL2)
+- 파일: `ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip` (JavaScript/GLSL: 원소 주문 29모듈·폼 포함 39종, FLIP 유체·연소 솔버·레이마칭 볼륨·중력 렌즈, elements.js 어댑터, spells.json 411설정)
+- 제작: Humpalumps (Ultra Elements), 데모 어댑트: Patch / 라이선스: MIT / 원본: https://github.com/Humpalumps/ultra-elements
+- 비고: 텍스처·모델·사운드 없이 전량 코드 생성. three 0.186.1 고정, 주문 로딩은 Vite import.meta.glob. MIT 전문 동봉
