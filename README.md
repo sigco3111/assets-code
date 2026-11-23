@@ -59,3 +59,8 @@
 - 파일: `ultra-elements-spell-vfx/ultra-elements-spell-vfx.zip` (JavaScript/GLSL: 원소 주문 29모듈·폼 포함 39종, FLIP 유체·연소 솔버·레이마칭 볼륨·중력 렌즈, elements.js 어댑터, spells.json 411설정)
 - 제작: Humpalumps (Ultra Elements), 데모 어댑트: Patch / 라이선스: MIT / 원본: https://github.com/Humpalumps/ultra-elements
 - 비고: 텍스처·모델·사운드 없이 전량 코드 생성. three 0.186.1 고정, 주문 로딩은 Vite import.meta.glob. MIT 전문 동봉
+
+### AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)
+- 파일: `abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip` (JavaScript·GLSL src 전체(archive 제외): 주문 9종(Abyssal Maw·Chains of Penance·Dragonfire Circle·Stormheart Gyroscope·Amethyst Verdict·Astral Tome·Wildroot Reliquary·Starbreaker Lance·Astral Fang)·기반/매니저·GPU 파티클·GLSL 머티리얼·래그돌·포스트 체인·조준 인디케이터·VFX 에디터)
+- 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/AbilityCastingThreeJS
+- 비고: 참고용 원본 코드. MIT 전문 동봉. Mixamo FBX·diffuse.png(재배포 금지), Sketchfab 모델 dragon·gyroscope(원라이선스 불명), 출처 미확인 텍스처는 제외. npm run build 통과(2026-11-23). 자작 모델은 assets-3d-lowpoly-2 abilitycasting-models

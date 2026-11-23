@@ -1,0 +1,15 @@
+{
+ "name": "AbilityCasting 시네마틱 주문 VFX 코드 9종 (Three.js·GLSL)",
+ "slug": "abilitycasting-spell-vfx",
+ "zip": "abilitycasting-spell-vfx.zip",
+ "file": "abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip",
+ "author": "mohamedachrefelouafi",
+ "url": "https://github.com/achrefelouafi/AbilityCastingThreeJS",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi)",
+ "date": "2026-11-23",
+ "tags": "code,javascript,threejs,glsl,vfx,ability,spell,shader,particles,ragdoll,postprocessing,game",
+ "notes": "시네마틱 주문 9종(Abyssal Maw·Chains of Penance·Dragonfire Circle·Stormheart Gyroscope·Amethyst Verdict·Astral Tome·Wildroot Reliquary·Starbreaker Lance·Astral Fang)+Ability 기반·매니저, GPU 파티클, GLSL 머티리얼, 래그돌·더미, 깊이 프리패스·왜곡·ACES 포스트 체인, 지면 조준 인디케이터, VFX 에디터(lil-gui). src 전체(archive 제외) 참고용 원본. npm 의존 미번들. Mixamo FBX·diffuse.png(재배포 금지), Sketchfab 모델 dragon·gyroscope(원라이선스 불명) 제외. npm run build 통과(2026-11-23). 모델 팩은 assets-3d-lowpoly-2 abilitycasting-models",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}

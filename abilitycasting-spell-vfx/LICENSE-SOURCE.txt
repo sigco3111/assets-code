@@ -1,0 +1,7 @@
+Source: https://github.com/achrefelouafi/AbilityCastingThreeJS
+License: MIT
+Checked: 2026-11-23 (default branch main clone, HEAD e856fac)
+Quote: MIT License / Copyright (c) 2026 mohamedachrefelouafi
+Dependency: three, lil-gui, @mediapipe/tasks-vision, qrcode-generator (npm, not bundled)
+Bundled media: none in this pack (models live in assets-3d-lowpoly-2 abilitycasting-models)
+Note: origin README carves out HDR probe, character FBX and third-party models as keeping their original licences; those are excluded here.
