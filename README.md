@@ -49,3 +49,8 @@
 - 파일: `procedural-animals-threejs/procedural-animals-threejs.zip` (JavaScript 239파일 + 타입 선언: SDF 몸 조각·자동 리그/스킨·털/깃털/비늘·IK 보행/액션, 24종 6바디플랜, bake CLI 포함)
 - 제작: Majid Manzarpour and procedural-animals contributors / 라이선스: MIT / 원본: https://github.com/majidmanzarpour/threejs-procedural-animals
 - 비고: 모델·텍스처·애니메이션 클립 없는 코드 전용(실행 시 생성). node tools/test.mjs 24종 통과(2026-11-23). 베이크 샘플 6종은 assets-3d-lowpoly-2 procedural-animal-samples
+
+### Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)
+- 파일: `elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip` (JavaScript·GLSL src 전체(archive 제외): 스킬 7종(Pyre·ElectricalSphere·Portal·FirePortal·Kraken·Earth·AetherRing)·기반/매니저·GLSL 머티리얼 17종·이펙트/파티클 라이브러리)
+- 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/LinearAbilityExtThreeJS
+- 비고: 참고용 원본 코드. MIT 전문 동봉. Mixamo FBX·diffuse.png(재배포 금지), textures.glb(출처 불명)는 제외
