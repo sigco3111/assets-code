@@ -64,3 +64,8 @@
 - 파일: `abilitycasting-spell-vfx/abilitycasting-spell-vfx.zip` (JavaScript·GLSL src 전체(archive 제외): 주문 9종(Abyssal Maw·Chains of Penance·Dragonfire Circle·Stormheart Gyroscope·Amethyst Verdict·Astral Tome·Wildroot Reliquary·Starbreaker Lance·Astral Fang)·기반/매니저·GPU 파티클·GLSL 머티리얼·래그돌·포스트 체인·조준 인디케이터·VFX 에디터)
 - 제작: mohamedachrefelouafi / 라이선스: MIT / 원본: https://github.com/achrefelouafi/AbilityCastingThreeJS
 - 비고: 참고용 원본 코드. MIT 전문 동봉. Mixamo FBX·diffuse.png(재배포 금지), Sketchfab 모델 dragon·gyroscope(원라이선스 불명), 출처 미확인 텍스처는 제외. npm run build 통과(2026-11-23). 자작 모델은 assets-3d-lowpoly-2 abilitycasting-models
+
+### 00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)
+- 파일: `00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip`
+- 제작: 00GameDevs (@00vchannel) / 라이선스: MIT / 원본: https://patch.gg/00vchannel/00gamedevs-vfx-starter
+- 비고: 마법 VFX 5모듈 원본: 암흑 사슬 폭발·공간 참격·블랙홀·황금 사슬 비·성유물 강림. 외부 텍스처·모델·음원 없음. three 0.187.0/WebGL2 필요. MIT 고지·통합 가이드·SHA256 매니페스트·실행 샘플 동봉. npm build 및 5종 렌더/생명주기 확인. Patch helper·브랜드·게임 아트 제외. 모바일 성능 미검증.

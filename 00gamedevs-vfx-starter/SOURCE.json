@@ -1,0 +1,34 @@
+{
+  "source_url": "https://patch.gg/00vchannel/00gamedevs-vfx-starter",
+  "clone_url": "https://git.patch.gg/00vchannel/00gamedevs-vfx-starter.git",
+  "source_commit": "c73cf5140b04a23bcab9f01a81e2f6d82425d706",
+  "release": "0.1.2",
+  "collected": "2026-11-23",
+  "files": [
+    {
+      "path": "effects/darkchain-detonation.js",
+      "sha256": "20f88927f2782a213abdd2a8b4f5b46105141746e62b6939b8e1b68f85b69f6b",
+      "verified": true
+    },
+    {
+      "path": "effects/dimensional-rend.js",
+      "sha256": "166c8184c903f5dfa36a9be7143be6a6e09c53d42ba575e3549a90aee869892e",
+      "verified": true
+    },
+    {
+      "path": "effects/black-hole.js",
+      "sha256": "4c3f093cf4e2d21affc54accf94151eec2381fb2cc994977bfcba37b04934cf9",
+      "verified": true
+    },
+    {
+      "path": "effects/golden-chain-rain.js",
+      "sha256": "b577b72df719cd2e2b1daf818d10739c13736d1e5640c76f4c70ae7f6011e870",
+      "verified": true
+    },
+    {
+      "path": "effects/sacred-relic-descent.js",
+      "sha256": "c3adb6737b3a124a50eb6158e5f8149ea01197d76e52a92dd125ba3b217565bf",
+      "verified": true
+    }
+  ]
+}

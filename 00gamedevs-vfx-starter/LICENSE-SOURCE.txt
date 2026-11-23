@@ -1,0 +1,4 @@
+MIT verified in source LICENSE and every effect module header.
+Source: https://patch.gg/00vchannel/00gamedevs-vfx-starter
+Release 0.1.2; commit c73cf5140b04a23bcab9f01a81e2f6d82425d706
+Collected 2026-11-23. Excludes brand/avatar/game artwork and Patch helper.

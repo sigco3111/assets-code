@@ -1,0 +1,15 @@
+{
+  "name": "00GameDevs 마법 VFX Starter 5종 (Three.js·WebGL2)",
+  "slug": "00gamedevs-vfx-starter",
+  "zip": "00gamedevs-vfx-starter.zip",
+  "file": "00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip",
+  "author": "00GameDevs (@00vchannel)",
+  "url": "https://patch.gg/00vchannel/00gamedevs-vfx-starter",
+  "license": "MIT",
+  "attr": "required (MIT): Copyright (c) 2026 00GameDevs (@00vchannel), 저작권·허가 고지 유지",
+  "date": "2026-11-23",
+  "tags": "code,javascript,threejs,webgl2,glsl,vfx,magic,spells,chains,black-hole,slash,lightning,particles,procedural",
+  "notes": "마법 VFX 5모듈 원본: 암흑 사슬 폭발·공간 참격·블랙홀·황금 사슬 비·성유물 강림. 외부 텍스처·모델·음원 없음. three 0.187.0/WebGL2 필요. MIT 고지·통합 가이드·SHA256 매니페스트·실행 샘플 동봉. npm build 및 5종 렌더/생명주기 확인. Patch helper·브랜드·게임 아트 제외. 모바일 성능 미검증.",
+  "preview": "preview.png",
+  "kind": "코드 모듈 (3D)"
+}

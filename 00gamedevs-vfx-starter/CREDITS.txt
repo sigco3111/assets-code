@@ -1,0 +1,3 @@
+Original effect code: Copyright (c) 2026 00GameDevs (@00vchannel). MIT. Preserve all embedded notices.
+Source release example: Copyright (c) 2026 00vchannel. MIT.
+Three.js: Copyright 2010-2026 three.js authors. MIT.
