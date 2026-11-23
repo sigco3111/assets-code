@@ -1,0 +1,15 @@
+{
+ "name": "Elemental Sandbox 스킬 VFX 코드 모듈 (Three.js·GLSL)",
+ "slug": "elemental-sandbox-ability-vfx",
+ "zip": "elemental-sandbox-ability-vfx.zip",
+ "file": "elemental-sandbox-ability-vfx/elemental-sandbox-ability-vfx.zip",
+ "author": "mohamedachrefelouafi",
+ "url": "https://github.com/achrefelouafi/LinearAbilityExtThreeJS",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 mohamedachrefelouafi)",
+ "date": "2026-11-23",
+ "tags": "code,javascript,threejs,glsl,vfx,ability,skill,shader,particles,material,indicator,game",
+ "notes": "스킬 7종(Pyre·ElectricalSphere·Portal·FirePortal·Kraken·Earth·AetherRing)+기반/매니저, GLSL 머티리얼 17종, 이펙트·파티클·셰이더 라이브러리. src 전체(archive 제외) 참고용 원본. MIT. Mixamo FBX·diffuse.png(재배포 금지), textures.glb(출처 불명) 제외",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}
