@@ -1,0 +1,7 @@
+Long Wind 절차적 환경 생성 코드 (Three.js)
+
+Original work: Long Wind by jbang2004 — https://github.com/jbang2004/long-wind (MIT, see LICENSE.txt)
+Korean fork: https://github.com/sigco3111/long-wind
+Scope: src/world, src/levels, src/fx, src/core (procedural terrain/grass/bamboo/town/sky/weather generation).
+Excluded: character/combat/UI code and jian-demo.js pose data (reference-video-derived).
+Collected and packaged 2026-11-24.
