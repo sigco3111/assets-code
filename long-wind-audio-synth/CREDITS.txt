@@ -1,0 +1,6 @@
+Long Wind WebAudio 음악·효과음 합성 코드
+
+Original work: Long Wind by jbang2004 — https://github.com/jbang2004/long-wind (MIT, see LICENSE.txt)
+Korean fork: https://github.com/sigco3111/long-wind
+Scope: src/audio (all music/SFX/voice synthesis; repository ships zero audio files).
+Collected and packaged 2026-11-24.
