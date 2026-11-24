@@ -1,0 +1,6 @@
+Cold Smoke WebAudio 음악·효과음 합성 코드
+
+Original work: Cold Smoke by Huisky — https://github.com/huiskylabs/cold-smoke (MIT, see LICENSE.txt)
+Korean fork: https://github.com/sigco3111/cold-smoke
+Scope: src/18_sound.js, src/18b_music.js + runtime deps src/00_util.js, src/00b_variants.js (all MIT; repository ships zero audio files).
+Collected and packaged 2026-11-24.

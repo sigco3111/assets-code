@@ -1,0 +1,15 @@
+{
+ "name": "Cold Smoke WebAudio 음악·효과음 합성 코드",
+ "slug": "cold-smoke-audio-synth",
+ "zip": "cold-smoke-audio-synth.zip",
+ "file": "cold-smoke-audio-synth/cold-smoke-audio-synth.zip",
+ "author": "Huisky",
+ "url": "https://github.com/huiskylabs/cold-smoke",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky)",
+ "date": "2026-11-24",
+ "tags": "code,javascript,webaudio,audio,music,sfx,synthesis,wind,ski,snow,adaptive,generative",
+ "notes": "JS 2파일(합성 효과음·5레이어 생성형 어댑티브 음악)+실행 의존 core 2종(00_util·00b_variants, 동일 MIT). 녹음 음원 0개 전량 합성, Web Audio 전용. Sound는 게임 상태를 매 프레임 입력받는 구조라 어댑터 필요(INTEGRATION.md 동봉), Music은 거의 독립. 브라우저 단독 실행 미검증. MIT",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (음향)"
+}
