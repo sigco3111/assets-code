@@ -4,7 +4,7 @@
 
 **라이선스: MIT (Copyright (c) 2026 jbang2004).** 저작권 표기와 MIT 전문을 유지하면 사용할 수 있습니다(동봉 LICENSE.txt).
 
-## 내용 (zip, JS 12파일)
+## 내용 (zip, JS 17파일)
 
 - `engine.js` — 합성 엔진·버스
 - `instruments.js` — 전통 악기 톤 합성
@@ -18,5 +18,6 @@
 ## 활용 메모
 
 - 수묵·무협 분위기의 음악·효과음을 코드만으로 재현하는 레시피라 무협·동양풍 게임에 바로 참고할 수 있습니다.
+- 실행에 필요한 같은 저장소 core 모듈 5종(bus·globals·wind·noise·glsl, 모두 MIT)을 `core/`에 함께 수록했습니다. 외부 의존은 three.js(audio.js)뿐입니다.
 - 출처: https://github.com/jbang2004/long-wind · 한글판: https://github.com/sigco3111/long-wind
 - 수집일: 2026-11-24 · 파일: long-wind-audio-synth.zip
