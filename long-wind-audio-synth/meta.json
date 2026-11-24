@@ -1,0 +1,15 @@
+{
+ "name": "Long Wind WebAudio 음악·효과음 합성 코드",
+ "slug": "long-wind-audio-synth",
+ "zip": "long-wind-audio-synth.zip",
+ "file": "long-wind-audio-synth/long-wind-audio-synth.zip",
+ "author": "jbang2004",
+ "url": "https://github.com/jbang2004/long-wind",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 jbang2004)",
+ "date": "2026-11-24",
+ "tags": "code,javascript,webaudio,synth,music,sfx,voice,procedural,generative,ambient",
+ "notes": "src/audio 12파일(엔진·악기·생성악곡·검술효과음·환경음·날씨·군중·음성·IR). 녹음 음원 0개 전량 합성. 게임 결합 상태 참고용. MIT",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (음향)"
+}
