@@ -4,7 +4,7 @@
 
 **라이선스: MIT (Copyright (c) 2026 jbang2004).** 저작권 표기와 MIT 전문을 유지하면 사용할 수 있습니다(동봉 LICENSE.txt).
 
-## 내용 (zip, JS 71파일)
+## 내용 (zip, JS 70파일)
 
 - `world/` — 지형(terrain·bake·worker·pool), 풀(grass·glsl), 죽림·수목·화초(trees·flora·flowers·foliage·bamboo), 마을(town·town-arch·geo·mat), 하늘(sky), 바위 배치(rocks·lod·plan), 소품(props·pavilion·stone·carve), 지형 그림자·군집(layout·chunks·shadows·plumes·mountains)
 - `levels/` — 초원·죽림·마을 레벨 구성(steppe·bamboo·town·runtime)
@@ -15,6 +15,6 @@
 ## 활용 메모
 
 - 원본 게임 결합 상태의 참고용 코드로, 모듈 간 의존이 있습니다. 생성기 단위로 떼어 쓰는 용도에 적합합니다.
-- 캐릭터·전투·UI 코드와 참고영상 기반 검술 포즈 데이터(src/character/mocap/jian-demo.js)는 팩에서 제외했습니다.
+- 캐릭터·전투·UI 코드와 참고영상 기반 검술 포즈 데이터(src/character/mocap/jian-demo.js)는 팩에서 제외했습니다. 군중 배치 모듈 world/citizens.js는 그 제외된 character 모듈(character·animator·crowdMocap)을 import해서 팩에서 뺐습니다. 나머지 파일의 상대 import는 팩 안에서 닫히고 외부 의존은 three.js뿐입니다.
 - 출처: https://github.com/jbang2004/long-wind · 한글판: https://github.com/sigco3111/long-wind
 - 수집일: 2026-11-24 · 파일: long-wind-env-gen.zip
