@@ -69,3 +69,13 @@
 - 파일: `00gamedevs-vfx-starter/00gamedevs-vfx-starter.zip`
 - 제작: 00GameDevs (@00vchannel) / 라이선스: MIT / 원본: https://patch.gg/00vchannel/00gamedevs-vfx-starter
 - 비고: 마법 VFX 5모듈 원본: 암흑 사슬 폭발·공간 참격·블랙홀·황금 사슬 비·성유물 강림. 외부 텍스처·모델·음원 없음. three 0.187.0/WebGL2 필요. MIT 고지·통합 가이드·SHA256 매니페스트·실행 샘플 동봉. npm build 및 5종 렌더/생명주기 확인. Patch helper·브랜드·게임 아트 제외. 모바일 성능 미검증.
+
+### Long Wind 절차적 환경 생성 코드 (Three.js)
+- 파일: `long-wind-env-gen/long-wind-env-gen.zip` (JavaScript 70파일: 지형·풀·죽림·마을·하늘·날씨 절차적 생성, world+levels+fx+core)
+- 제작: jbang2004 / 라이선스: MIT / 원본: https://github.com/jbang2004/long-wind (한글판: https://github.com/sigco3111/long-wind)
+- 비고: 모델·텍스처 없이 환경 전량을 코드로 생성. 캐릭터·전투·UI 코드와 검술 포즈 데이터는 제외. world/citizens.js(군중 배치)는 제외된 character 모듈 의존으로 미수록. 나머지 모듈 import는 팩 안에서 닫히고 외부 의존은 three.js뿐. MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
+
+### Long Wind WebAudio 음악·효과음 합성 코드
+- 파일: `long-wind-audio-synth/long-wind-audio-synth.zip` (JavaScript 17파일: 합성 엔진·전통 악기 톤·생성 악곡·검술 효과음·환경음·날씨음·군중·음성·IR + 실행 의존 core 5종)
+- 제작: jbang2004 / 라이선스: MIT / 원본: https://github.com/jbang2004/long-wind (한글판: https://github.com/sigco3111/long-wind)
+- 비고: 녹음 음원 없이 전량 합성(원작 저장소 오디오 파일 0개). 실행에 필요한 core 모듈 5종(bus·globals·wind·noise·glsl, 모두 MIT)을 core/에 동봉. 외부 의존은 three.js(audio.js)뿐. MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
