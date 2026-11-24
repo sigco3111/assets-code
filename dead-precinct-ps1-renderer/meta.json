@@ -1,0 +1,15 @@
+{
+ "name": "Dead Precinct PS1 WebGL 렌더러 코드",
+ "slug": "dead-precinct-ps1-renderer",
+ "zip": "dead-precinct-ps1-renderer.zip",
+ "file": "dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip",
+ "author": "Bao5ye",
+ "url": "https://github.com/Bao5ye/dead-precinct",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Bao5ye)",
+ "date": "2026-11-24",
+ "tags": "code,javascript,webgl,ps1,retro,renderer,shader,dithering,vertex-jitter,affine,fog,fixed-camera,survival-horror",
+ "notes": "외부 라이브러리 없는 WebGL1 렌더러: 버텍스 스냅(지터), 어파인 텍스처 매핑, 버텍스별 2점 조명+감쇠, 안개, 15비트 디더링, 절차적 표면 머티리얼 7종(벽돌/타일/판자/콘크리트/금속/천), 프리렌더 배경 깊이 합성 3패스(md 모드), CRT 스캔라인·그레인·비네트; 320×240 타깃; 게임 결합 원본 발췌(참고용, INTEGRATION.md 동봉); 배경 팩은 assets-2d-pixel dead-precinct-backgrounds, 오디오는 assets-code dead-precinct-audio-synth; MIT 전문 LICENSE.txt 동봉",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (렌더링)"
+}

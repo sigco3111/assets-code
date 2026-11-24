@@ -1,0 +1,10 @@
+Dead Precinct WebAudio Synthesized SFX (26) and Music (3 tracks) - code pack
+
+Original work: DEAD PRECINCT by Bao5ye
+https://github.com/Bao5ye/dead-precinct (MIT, Copyright (c) 2026 Bao5ye)
+The upstream LICENSE applies and is included as LICENSE.txt.
+
+Per the original README, all music and sound effects are original works
+synthesized in real time; no recorded audio exists in the project.
+Korean localization fork (extraction source): https://github.com/sigco3111/dead-precinct-ko
+Collected and packaged 2026-11-24.

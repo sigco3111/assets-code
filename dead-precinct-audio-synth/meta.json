@@ -1,0 +1,15 @@
+{
+ "name": "Dead Precinct WebAudio 합성 효과음 26종·음악 3곡 코드",
+ "slug": "dead-precinct-audio-synth",
+ "zip": "dead-precinct-audio-synth.zip",
+ "file": "dead-precinct-audio-synth/dead-precinct-audio-synth.zip",
+ "author": "Bao5ye",
+ "url": "https://github.com/Bao5ye/dead-precinct",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Bao5ye)",
+ "date": "2026-11-24",
+ "tags": "code,javascript,webaudio,audio,sfx,music,synthesis,horror,formant,reverb,generative,procedural",
+ "notes": "단일 index.html에서 추출한 합성 오디오 엔진: 효과음 26종(총성 3종 변형·발소리·신음·비명·포효·유리·경보·심장박동 등, 포먼트 보컬·노이즈·서브사인 합성), 생성형 음악 3곡(dread 60bpm·safe 66bpm·boss 140bpm), 절차적 IR 컨볼버 리버브·덕킹·방별 환경음 6종; 녹음 음원 0개 전량 코드 합성(원작 README 자작 명시); 게임 결합 원본 발췌(참고용, INTEGRATION.md 동봉); 원작은 1998년작 서바이벌 호러 비상업 팬 오마주 선언; MIT 전문 LICENSE.txt 동봉",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (음향)"
+}

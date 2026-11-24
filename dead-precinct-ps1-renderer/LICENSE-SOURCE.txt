@@ -1,0 +1,12 @@
+Dead Precinct PS1 Renderer Code - license provenance (written by the collector)
+
+Source repository: https://github.com/Bao5ye/dead-precinct (original commit
+3292dc6; code extracted from the Korean fork sigco3111/dead-precinct-ko, whose
+game file carries the same renderer with Korean comments).
+Its LICENSE is MIT (Copyright (c) 2026 Bao5ye), included verbatim as LICENSE.txt.
+
+The original README declares the game a non-commercial fan homage to a 1998
+survival-horror classic and states all material is original. This pack contains
+only renderer code sections of the single-file game (shaders, geometry pipeline,
+draw3 compositor, CRT overlay). Character meshes, backgrounds and game logic are
+not included. Keep LICENSE.txt with the pack when redistributing.

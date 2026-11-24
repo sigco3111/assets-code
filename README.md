@@ -94,3 +94,13 @@
 - 파일: `cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip` (JavaScript 1파일: SDF 라이브러리(sd)+내로우밴드 서피스넷 메셔(meshSDF)+파라메트릭 메쉬 빌더(meshBuilder))
 - 제작: Huisky / 라이선스: MIT / 원본: https://github.com/huiskylabs/cold-smoke
 - 비고: 외부 의존 0·게임 전역 참조 0. Node 단독 실행으로 SDF→메쉬 16,722정점 생성 확인(2026-11-24), 렌더 파이프라인 연결 미검증(정점 10float 커스텀 레이아웃). MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
+
+### Dead Precinct WebAudio 합성 효과음 26종·음악 3곡 코드
+- 파일: `dead-precinct-audio-synth/dead-precinct-audio-synth.zip` (JavaScript 1파일 발췌: 효과음 26종·생성형 음악 3곡·컨볼버 리버브·덕킹·방별 환경음)
+- 제작: Bao5ye / 라이선스: MIT / 원본: https://github.com/Bao5ye/dead-precinct (한글판: https://github.com/sigco3111/dead-precinct-ko)
+- 비고: 녹음 음원 0개 전량 합성(원작 README 자작 명시). 포먼트 보컬·노이즈·서브사인 합성, dread 60bpm/safe 66bpm/boss 140bpm. 게임 결합 원본 발췌(참고용, INTEGRATION.md 동봉). 원작은 1998년작 서바이벌 호러 비상업 팬 오마주 선언. MIT 전문 LICENSE.txt 동봉
+
+### Dead Precinct PS1 WebGL 렌더러 코드
+- 파일: `dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip` (JavaScript 1파일 발췌: PS1 셰이더·지오메트리 파이프라인·draw3 배경 합성·CRT 마감)
+- 제작: Bao5ye / 라이선스: MIT / 원본: https://github.com/Bao5ye/dead-precinct (한글판: https://github.com/sigco3111/dead-precinct-ko)
+- 비고: 외부 라이브러리 없는 WebGL1 렌더러(버텍스 스냅·어파인 매핑·15비트 디더링·절차적 표면 7종·프리렌더 배경 깊이 합성 3패스). 320×240 타깃. 게임 결합 원본 발췌(참고용, INTEGRATION.md 동봉). 배경 팩은 assets-2d-pixel dead-precinct-backgrounds. MIT 전문 LICENSE.txt 동봉

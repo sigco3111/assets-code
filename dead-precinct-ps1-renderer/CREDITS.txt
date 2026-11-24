@@ -1,0 +1,8 @@
+Dead Precinct PS1-style WebGL Renderer - code pack
+
+Original work: DEAD PRECINCT by Bao5ye
+https://github.com/Bao5ye/dead-precinct (MIT, Copyright (c) 2026 Bao5ye)
+The upstream LICENSE applies and is included as LICENSE.txt.
+
+Korean localization fork (extraction source): https://github.com/sigco3111/dead-precinct-ko
+Collected and packaged 2026-11-24.
