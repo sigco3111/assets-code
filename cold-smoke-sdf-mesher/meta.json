@@ -1,0 +1,15 @@
+{
+ "name": "Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)",
+ "slug": "cold-smoke-sdf-mesher",
+ "zip": "cold-smoke-sdf-mesher.zip",
+ "file": "cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip",
+ "author": "Huisky",
+ "url": "https://github.com/huiskylabs/cold-smoke",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky)",
+ "date": "2026-11-24",
+ "tags": "code,javascript,sdf,surfacenets,mesh,procedural,geometry,modeling",
+ "notes": "JS 1파일: SDF 라이브러리(sd)+내로우밴드 서피스넷 메셔(meshSDF)+파라메트릭 메쉬 빌더(meshBuilder). 외부 의존 0·게임 전역 참조 0. Node 단독 실행으로 SDF→메쉬 16,722정점 생성 확인, 렌더 파이프라인 연결 미검증(정점 10float 커스텀 레이아웃). MIT",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}

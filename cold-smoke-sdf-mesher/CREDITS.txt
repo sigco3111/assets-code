@@ -1,0 +1,6 @@
+Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)
+
+Original work: Cold Smoke by Huisky — https://github.com/huiskylabs/cold-smoke (MIT, see LICENSE.txt)
+Korean fork: https://github.com/sigco3111/cold-smoke
+Scope: src/06_sdfmesh.js (SDF library + narrow-band surface nets mesher + parametric mesh builder; zero dependencies).
+Collected and packaged 2026-11-24.
