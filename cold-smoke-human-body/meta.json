@@ -1,0 +1,15 @@
+{
+ "name": "Cold Smoke 절차적 인체 생성 코드 (Human)",
+ "slug": "cold-smoke-human-body",
+ "zip": "cold-smoke-human-body.zip",
+ "file": "cold-smoke-human-body/cold-smoke-human-body.zip",
+ "author": "Huisky",
+ "url": "https://github.com/huiskylabs/cold-smoke",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Huisky)",
+ "date": "2026-11-24",
+ "tags": "code,javascript,procedural,human,character,skeleton,skinning,anthropometry,mesh,generator",
+ "notes": "human/ 모듈 11파일+빌드 스크립트: 체형 파라미터→59본 스켈레톤·근육 볼륨·서피스넷 메쉬·LBS/DQS 스키닝·모션 클립. 모델·텍스처 파일 0개 코드 생성. ANSUR II 등 공개 상수 사용(원시 데이터 미포함), 09a는 MakeHuman CC0. 실제 영상 기반 모캡 데이터는 권리 확인 보류로 제외(없어도 동작). Node 단독 실행으로 몸 메쉬·참조 몸·모션 샘플링 확인, 브라우저/게임 연결 미검증. MIT",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)"
+}

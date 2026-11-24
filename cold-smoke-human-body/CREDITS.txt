@@ -1,0 +1,9 @@
+Cold Smoke 절차적 인체 생성 코드 (Human)
+
+Original work: Cold Smoke by Huisky — https://github.com/huiskylabs/cold-smoke (MIT, see LICENSE.txt)
+Korean fork: https://github.com/sigco3111/cold-smoke
+Bundled third-party data: MakeHuman base mesh in human/src/09a_refdata.js — CC0 1.0 (see NOTICE.md)
+Embedded scientific constants: ANSUR II (public release), CDC/Soucie 2011, AAOS, McClure 2001, de Leva 1996 (see NOTICE.md)
+Excluded: data/mocap turn-cycle JSON (CC BY / CC BY 3.0 / Pexels License — pending rights review), lab/tools/research docs
+Scope: human/ module (procedural human body generation; zero model/texture files)
+Collected and packaged 2026-11-24.
