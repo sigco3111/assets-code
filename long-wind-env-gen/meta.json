@@ -9,7 +9,7 @@
  "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 jbang2004)",
  "date": "2026-11-24",
  "tags": "code,javascript,threejs,procedural,terrain,grass,bamboo,town,sky,weather,generation,glsl",
- "notes": "world+levels+fx+core 71파일. 지형·풀·죽림·마을·하늘·날씨 절차적 생성 전량 코드(에셋 파일 없음). 캐릭터·전투·UI 및 검술 포즈 데이터 제외. 게임 결합 상태 참고용. MIT",
+ "notes": "world+levels+fx+core 70파일. 지형·풀·죽림·마을·하늘·날씨 절차적 생성 전량 코드(에셋 파일 없음). 캐릭터·전투·UI 및 검술 포즈 데이터 제외. world/citizens.js는 제외된 character 모듈 의존으로 미수록. 나머지 모듈 import는 팩 내에서 닫히고 외부 의존은 three.js뿐. 게임 결합 상태 참고용. MIT",
  "preview": "preview.png",
  "kind": "코드 모듈 (3D)"
 }
