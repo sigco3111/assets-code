@@ -79,3 +79,18 @@
 - 파일: `long-wind-audio-synth/long-wind-audio-synth.zip` (JavaScript 17파일: 합성 엔진·전통 악기 톤·생성 악곡·검술 효과음·환경음·날씨음·군중·음성·IR + 실행 의존 core 5종)
 - 제작: jbang2004 / 라이선스: MIT / 원본: https://github.com/jbang2004/long-wind (한글판: https://github.com/sigco3111/long-wind)
 - 비고: 녹음 음원 없이 전량 합성(원작 저장소 오디오 파일 0개). 실행에 필요한 core 모듈 5종(bus·globals·wind·noise·glsl, 모두 MIT)을 core/에 동봉. 외부 의존은 three.js(audio.js)뿐. MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
+
+### Cold Smoke 절차적 인체 생성 코드 (Human)
+- 파일: `cold-smoke-human-body/cold-smoke-human-body.zip` (JavaScript 11파일+빌드 스크립트: 체형 파라미터→59본 스켈레톤·근육 볼륨·서피스넷 메쉬·LBS/DQS 스키닝·모션 클립 샘플링)
+- 제작: Huisky / 라이선스: MIT / 원본: https://github.com/huiskylabs/cold-smoke
+- 비고: 모델·텍스처 파일 0개, 인체 전량 코드 생성. ANSUR II 등 공개 피팅 상수만 내장(원시 데이터 미포함), 09a MakeHuman 참조 몸은 CC0. 실제 영상 기반 모캡 데이터는 권리 확인 보류로 미수록(없어도 동작). Node 단독 실행으로 몸 메쉬 12,986정점·참조 몸 13,380정점·모션 샘플링 확인(2026-11-24), 브라우저·게임 연결 미검증. MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
+
+### Cold Smoke WebAudio 음악·효과음 합성 코드
+- 파일: `cold-smoke-audio-synth/cold-smoke-audio-synth.zip` (JavaScript 2파일+실행 의존 core 2종: 합성 효과음·5레이어 생성형 어댑티브 음악)
+- 제작: Huisky / 라이선스: MIT / 원본: https://github.com/huiskylabs/cold-smoke
+- 비고: 녹음 음원 0개 전량 합성, Web Audio 전용. Sound는 게임 상태를 매 프레임 입력받는 구조라 통합 어댑터 필요(INTEGRATION.md 동봉), Music은 거의 독립. 브라우저 단독 실행 미검증. MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
+
+### Cold Smoke SDF 메쉬 생성 코드 (Surface Nets)
+- 파일: `cold-smoke-sdf-mesher/cold-smoke-sdf-mesher.zip` (JavaScript 1파일: SDF 라이브러리(sd)+내로우밴드 서피스넷 메셔(meshSDF)+파라메트릭 메쉬 빌더(meshBuilder))
+- 제작: Huisky / 라이선스: MIT / 원본: https://github.com/huiskylabs/cold-smoke
+- 비고: 외부 의존 0·게임 전역 참조 0. Node 단독 실행으로 SDF→메쉬 16,722정점 생성 확인(2026-11-24), 렌더 파이프라인 연결 미검증(정점 10float 커스텀 레이아웃). MIT 전문 LICENSE.txt 동봉. 참고용 원본 코드
