@@ -1,0 +1,4 @@
+Source: https://github.com/Furkiozknn/kervan
+License: MIT (project CREDITS.md: models built in-house from assets/src Blender scripts, covered by the game's MIT licence)
+Checked: 2026-11-24 (default branch, LICENSE + CREDITS.md read directly)
+Quote: "The 3D models in `assets/models/` were built for this game from the scripts in `assets/src/` ... covered by the game's MIT licence."

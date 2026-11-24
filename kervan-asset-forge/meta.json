@@ -1,0 +1,15 @@
+{
+ "name": "Kervan asset-forge 절차적 3D 모델 생성 파이프라인",
+ "slug": "kervan-asset-forge",
+ "zip": "kervan-asset-forge.zip",
+ "file": "kervan-asset-forge/kervan-asset-forge.zip",
+ "author": "Furkiozknn",
+ "url": "https://github.com/Furkiozknn/kervan",
+ "license": "MIT",
+ "attr": "required (MIT): 재배포 시 저작권 표기와 MIT 라이선스 전문 유지 (Copyright (c) 2026 Furkiozknn)",
+ "date": "2026-11-24",
+ "tags": "code,python,blender,procedural,3d,generator,glb,pipeline,headless",
+ "notes": "headless Blender로 GLB 11종을 생성하는 스크립트(공통 키트 _kv.py + 모델별 빌더 11)와 slim_glb.py·빌드 ps1; 생성물은 assets-3d-lowpoly-2 kervan-anatolia-models; MIT 전문 LICENSE 동봉",
+ "preview": "preview.jpg",
+ "kind": "코드 모듈 (3D)"
+}

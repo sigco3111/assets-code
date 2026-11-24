@@ -1,0 +1,8 @@
+Kervan asset-forge 절차적 3D 모델 생성 파이프라인
+
+Source: https://github.com/Furkiozknn/kervan (MIT License, checked 2026-11-24), assets/src/
+Author: Furkiozknn
+Headless Blender scripts that generate the game's 11 GLB models (_kv.py shared kit + one builder per model),
+plus slim_glb.py (GLB optimizer) and build/textures PowerShell drivers.
+Generated models pack: sigco3111/assets-3d-lowpoly-2 kervan-anatolia-models
+Collected and packaged 2026-11-24.
