@@ -1,0 +1,5 @@
+Lighthouse Cup 배구 매치 시뮬레이션 엔진·시드 로스터 코드 - license provenance (written by the collector)
+
+Source repository: https://github.com/itsLucas02/lighthouse-cup (original English build, commit d147523).
+Its LICENSE is MIT (Copyright (c) 2026 Aizzul Luqman), included verbatim as LICENSE.txt.
+The README credits the maker as gemini-4-carbon; this was not independently verified. The pack contains only a code section of the single-file game (no images, audio or other game material). Keep LICENSE.txt with the pack when redistributing.

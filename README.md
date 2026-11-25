@@ -104,3 +104,23 @@
 - 파일: `dead-precinct-ps1-renderer/dead-precinct-ps1-renderer.zip` (JavaScript 1파일 발췌: PS1 셰이더·지오메트리 파이프라인·draw3 배경 합성·CRT 마감)
 - 제작: Bao5ye / 라이선스: MIT / 원본: https://github.com/Bao5ye/dead-precinct (한글판: https://github.com/sigco3111/dead-precinct-ko)
 - 비고: 외부 라이브러리 없는 WebGL1 렌더러(버텍스 스냅·어파인 매핑·15비트 디더링·절차적 표면 7종·프리렌더 배경 깊이 합성 3패스). 320×240 타깃. 게임 결합 원본 발췌(참고용, INTEGRATION.md 동봉). 배경 팩은 assets-2d-pixel dead-precinct-backgrounds. MIT 전문 LICENSE.txt 동봉
+
+### Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드
+- 파일: `lighthouse-cup-oklab-dither-pipeline/lighthouse-cup-oklab-dither-pipeline.zip` (JavaScript 1파일 발췌 343행: engine/dither.js)
+- 제작: Aizzul Luqman (README 표기 gemini-4-carbon) / 라이선스: MIT / 원본: https://github.com/itsLucas02/lighthouse-cup (한글판: https://github.com/sigco3111/lighthouse-cup-ko)
+- 비고: 단일 index.html 영문판(커밋 d147523)에서 잘라낸 발췌, 참고용. 단독 브라우저 실행 미검증, 통합 방법은 INTEGRATION.md. 녹음·이미지 등 파일 에셋 없음. MIT 전문 LICENSE.txt 동봉
+
+### Lighthouse Cup WebAudio 관중·타격음 합성 코드
+- 파일: `lighthouse-cup-webaudio-synth/lighthouse-cup-webaudio-synth.zip` (JavaScript 1파일 발췌 167행: engine/soundfx.js)
+- 제작: Aizzul Luqman (README 표기 gemini-4-carbon) / 라이선스: MIT / 원본: https://github.com/itsLucas02/lighthouse-cup (한글판: https://github.com/sigco3111/lighthouse-cup-ko)
+- 비고: 단일 index.html 영문판(커밋 d147523)에서 잘라낸 발췌, 참고용. 단독 브라우저 실행 미검증, 통합 방법은 INTEGRATION.md. 녹음·이미지 등 파일 에셋 없음. MIT 전문 LICENSE.txt 동봉
+
+### Lighthouse Cup 체육관 코트·네트·리깅 선수 생성 코드
+- 파일: `lighthouse-cup-hall-textures-and-rig/lighthouse-cup-hall-textures-and-rig.zip` (JavaScript 1파일 발췌 512행: engine/hall.js)
+- 제작: Aizzul Luqman (README 표기 gemini-4-carbon) / 라이선스: MIT / 원본: https://github.com/itsLucas02/lighthouse-cup (한글판: https://github.com/sigco3111/lighthouse-cup-ko)
+- 비고: 단일 index.html 영문판(커밋 d147523)에서 잘라낸 발췌, 참고용. 단독 브라우저 실행 미검증, 통합 방법은 INTEGRATION.md. 녹음·이미지 등 파일 에셋 없음. MIT 전문 LICENSE.txt 동봉
+
+### Lighthouse Cup 배구 매치 시뮬레이션 엔진·시드 로스터 코드
+- 파일: `lighthouse-cup-volleyball-sim-engine/lighthouse-cup-volleyball-sim-engine.zip` (JavaScript 1파일 발췌 1969행: engine/volleyball.js)
+- 제작: Aizzul Luqman (README 표기 gemini-4-carbon) / 라이선스: MIT / 원본: https://github.com/itsLucas02/lighthouse-cup (한글판: https://github.com/sigco3111/lighthouse-cup-ko)
+- 비고: 단일 index.html 영문판(커밋 d147523)에서 잘라낸 발췌, 참고용. 단독 브라우저 실행 미검증, 통합 방법은 INTEGRATION.md. 녹음·이미지 등 파일 에셋 없음. MIT 전문 LICENSE.txt 동봉

@@ -1,0 +1,7 @@
+Lighthouse Cup OKLab 90색 디더링 픽셀 후처리 코드
+
+Original work: Lighthouse Cup (https://github.com/itsLucas02/lighthouse-cup), MIT, Copyright (c) 2026 Aizzul Luqman.
+README credits the maker as gemini-4-carbon (not independently verified).
+Extraction source: original English build commit d147523.
+Korean fork: https://github.com/sigco3111/lighthouse-cup-ko
+Collected and packaged 2026-11-26.
