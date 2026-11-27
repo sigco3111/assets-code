@@ -1,0 +1,4 @@
+License source: Timberfall repository LICENSE (MIT, https://git.patch.gg/blendi/timberfall.git):
+"Copyright (c) 2026 Patch. Portions (src/render/sky.ts, src/fx/particles.ts, src/audio/sounds.ts)
+Copyright (c) 2026 Steven Bobyn, from three-voxel-destruction by way of Brickfall, under the same licence."
+Checked 2026-11-27.

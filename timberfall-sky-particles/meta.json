@@ -1,0 +1,15 @@
+{
+ "name": "Timberfall 하늘·입자 효과 코드 (three.js, MIT)",
+ "slug": "timberfall-sky-particles",
+ "zip": "timberfall-sky-particles.zip",
+ "file": "timberfall-sky-particles/timberfall-sky-particles.zip",
+ "author": "Patch (@blendi)",
+ "url": "https://patch.gg/games/blendi/timberfall",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Patch, portions Steven Bobyn — 저작권·허가 고지 유지",
+ "date": "2026-11-27",
+ "tags": "code,typescript,threejs,sky,clouds,fog,particles,dust,smoke,fire,gpu",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)",
+ "notes": "sky.ts(시간대별 하늘·태양·구름·안개)+particles.ts(먼지·연기·불 GPU 파티클). three-voxel-destruction→Brickfall 경유 코드. three 필요, 단독 실행 미검증"
+}
