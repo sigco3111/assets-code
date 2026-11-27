@@ -1,0 +1,15 @@
+{
+ "name": "Small Magic 주문 VFX·초원 월드 코드 (Three.js)",
+ "slug": "small-magic-spell-vfx",
+ "zip": "small-magic-spell-vfx.zip",
+ "file": "small-magic-spell-vfx/small-magic-spell-vfx.zip",
+ "author": "Patch (@blendi)",
+ "url": "https://patch.gg/games/blendi/small-magic",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Patch, 저작권·허가 고지 유지",
+ "date": "2026-11-27",
+ "tags": "code,javascript,threejs,vfx,fire,frost,wind,tornado,explosion,black-hole,lightning,time-rewind,grass,meadow,spells,procedural",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)",
+ "notes": "코드로 그린 주문 이펙트와 초원: 불(번지는 불·불꽃·폭발 빌로우)·냉기·바람·성장·폭발 룬 서클·특이점(블랙홀)·토네이도·번개·시간 정지/되감기·벽·지팡이·풀·초원 월드·마무리 화면 패스. 게임과 결합된 상태 그대로의 참고용 원본, 일부는 player.js·structures·physics 등 다른 모듈을 import(파괴 코드는 small-magic-destruction 팩). 외부 텍스처·모델 없음. npm three 필요. 단독 실행 미검증. 모바일 성능 미검증. Mixamo 마법사·Sonniss 녹음·AI 그림 UI 제외"
+}

@@ -1,0 +1,6 @@
+Original work: Small Magic by @blendi (Patch)
+https://patch.gg/games/blendi/small-magic
+Source: https://git.patch.gg/blendi/small-magic.git (commit 9fbc259)
+Code license: MIT (Copyright (c) 2026 Patch). Keep the MIT notice (LICENSE.txt).
+NOT included: the Mixamo wizard and moves (not redistributable), the Sonniss GDC recordings (not redistributable), AI-painted UI art.
+Collected 2026-11-27.

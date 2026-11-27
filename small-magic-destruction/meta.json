@@ -1,0 +1,15 @@
+{
+ "name": "Small Magic 파괴 물리 코드 (three-avbd·구조물 분해)",
+ "slug": "small-magic-destruction",
+ "zip": "small-magic-destruction.zip",
+ "file": "small-magic-destruction/small-magic-destruction.zip",
+ "author": "Patch (@blendi), Steven Bobyn (three-avbd)",
+ "url": "https://patch.gg/games/blendi/small-magic",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Patch; three-avbd Copyright (c) 2026 Steven Bobyn, 포함된 LICENSE·THIRD_PARTY_NOTICES 유지",
+ "date": "2026-11-27",
+ "tags": "code,javascript,typescript,threejs,physics,destruction,avbd,structures,rubble,buildings",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)",
+ "notes": "돌·기둥·기와를 조각으로 지어 부서지게 하는 구조물 빌더(physics/builder·structure·materials), 파괴 처리 ruin.js, 마을 건물 구성 structures.js, 벤더링된 three-avbd(AVBD 물리 엔진 2D/3D, WebGPU 커널 포함, 커밋 cd3ce90, 커널 1개 수정) 포함. 모두 MIT. 원작 vite alias 설정이 필요(three-avbd→vendor/three-avbd/src/lib/index.ts). 단독 실행 미검증. WebGPU 필요 부분 있음"
+}

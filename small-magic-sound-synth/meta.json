@@ -1,0 +1,15 @@
+{
+ "name": "Small Magic 합성 사운드 엔진 (주문·불·발소리·환경음 전량 코드 합성)",
+ "slug": "small-magic-sound-synth",
+ "zip": "small-magic-sound-synth.zip",
+ "file": "small-magic-sound-synth/small-magic-sound-synth.zip",
+ "author": "Patch (@blendi)",
+ "url": "https://patch.gg/games/blendi/small-magic",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Patch, 저작권·허가 고지 유지",
+ "date": "2026-11-27",
+ "tags": "code,javascript,webaudio,audio,synth,sfx,procedural,spells,fire,footsteps,ambient",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (오디오)",
+ "notes": "WebAudio 레이어 합성 엔진 sound.js(주문별 소리, 불·바람·폭발, 지면 상태에 따라 바뀌는 발소리, 장소 환경음, 행동에 반응하는 믹스)와 타이틀 음악 재생 music.js. 녹음 파일 없이 코드만으로 소리가 나게 설계(원작은 Sonniss 녹음을 덧입히지만 코드는 그것 없이 동작, ?bare). 게임 상태와 결합된 참고용. 단독 실행 미검증. Sonniss 녹음 제외"
+}

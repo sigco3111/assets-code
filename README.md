@@ -124,3 +124,18 @@
 - 파일: `lighthouse-cup-volleyball-sim-engine/lighthouse-cup-volleyball-sim-engine.zip` (JavaScript 1파일 발췌 1969행: engine/volleyball.js)
 - 제작: Aizzul Luqman (README 표기 gemini-4-carbon) / 라이선스: MIT / 원본: https://github.com/itsLucas02/lighthouse-cup (한글판: https://github.com/sigco3111/lighthouse-cup-ko)
 - 비고: 단일 index.html 영문판(커밋 d147523)에서 잘라낸 발췌, 참고용. 단독 브라우저 실행 미검증, 통합 방법은 INTEGRATION.md. 녹음·이미지 등 파일 에셋 없음. MIT 전문 LICENSE.txt 동봉
+
+### Small Magic 주문 VFX·초원 월드 코드
+- 파일: `small-magic-spell-vfx/small-magic-spell-vfx.zip` (JavaScript: 불·냉기·바람·폭발·블랙홀·토네이도·시간 되감기·번개·돌벽·풀·초원 월드)
+- 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/small-magic
+- 비고: 모든 그래픽이 코드. 게임과 결합된 참고용 원본. Mixamo 마법사·Sonniss 녹음·AI 그림 UI 제외
+
+### Small Magic 파괴 물리 코드
+- 파일: `small-magic-destruction/small-magic-destruction.zip` (조각으로 짓는 구조물 빌더, 파괴 처리, 마을 건물, 벤더링된 three-avbd)
+- 제작: Patch (@blendi), Steven Bobyn (three-avbd) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/small-magic
+- 비고: three-avbd의 LICENSE·THIRD_PARTY_NOTICES 동봉, vite alias 필요
+
+### Small Magic 합성 사운드 엔진
+- 파일: `small-magic-sound-synth/small-magic-sound-synth.zip` (sound.js, music.js: 주문·불·발소리·환경음 전량 WebAudio 합성)
+- 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/small-magic
+- 비고: 녹음 없이 코드만 수록(원작이 덧입히는 Sonniss 녹음은 재배포 금지라 제외)

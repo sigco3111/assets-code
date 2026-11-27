@@ -1,0 +1,4 @@
+MIT verified in source LICENSE and LICENCE-NOTES.md ("Code MIT"; "Nothing here has no stated source").
+Source: https://patch.gg/games/blendi/small-magic
+Repo: https://git.patch.gg/blendi/small-magic.git commit 9fbc259
+Collected 2026-11-27. Excludes Mixamo wizard, Sonniss recordings, AI-painted UI images.
