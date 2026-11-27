@@ -1,0 +1,15 @@
+{
+ "name": "Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript)",
+ "slug": "dont-look-away-chapel-code",
+ "zip": "dont-look-away-chapel-code.zip",
+ "file": "dont-look-away-chapel-code/dont-look-away-chapel-code.zip",
+ "author": "Blendi Bylygbashi (Patch @blendi), Majid Manzarpour (Dungeon Forge)",
+ "url": "https://patch.gg/games/blendi/dont-look-away",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Blendi Bylygbashi; 파생 부분 Patch·Majid Manzarpour MIT 고지 유지 (licenses/ 동봉)",
+ "date": "2026-11-27",
+ "tags": "code,typescript,threejs,horror,stone,shader,dungeon,flashlight,line-of-sight,navigation,pathfinding,audio,procedural",
+ "kind": "코드 모듈 (3D)",
+ "notes": "stone/stonework(석재 셰이더·기둥·리브·포장), contact-shadows, flashlight·illumination, angels·visibility(보이는 동안 멈추는 천사, 반사 포함 시야 판정), temporal, navigation(길찾기), horror, audio(코드 합성 소리), power-cabinet, world(예배당 구성) 등 src 전체 TS 1,900줄. 게임과 결합된 참고용 원본, three 필요, 단독 실행 미검증. 석재 셰이더는 Realistic Procedural Dungeons·Dungeon Forge에서 파생(MIT 전문 동봉). 모델·텍스처·효과음은 제외(별도 팩)",
+ "preview": "preview.png"
+}

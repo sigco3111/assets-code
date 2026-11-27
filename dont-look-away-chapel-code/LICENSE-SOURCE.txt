@@ -1,0 +1,5 @@
+Original work: Don't Look Away by @blendi (Patch)
+https://patch.gg/games/blendi/dont-look-away
+Source: https://git.patch.gg/blendi/dont-look-away.git commit afa8c12
+Code license: MIT (Copyright (c) 2026 Blendi Bylygbashi). Derived parts: MIT, see licenses/.
+Collected 2026-11-27.

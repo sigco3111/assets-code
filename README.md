@@ -139,3 +139,9 @@
 - 파일: `small-magic-sound-synth/small-magic-sound-synth.zip` (sound.js, music.js: 주문·불·발소리·환경음 전량 WebAudio 합성)
 - 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/small-magic
 - 비고: 녹음 없이 코드만 수록(원작이 덧입히는 Sonniss 녹음은 재배포 금지라 제외)
+
+### Don't Look Away 석조 예배당·천사 시야 판정 코드 (Three.js·TypeScript)
+![미리보기](dont-look-away-chapel-code/preview.png)
+- 파일: `dont-look-away-chapel-code/dont-look-away-chapel-code.zip`
+- 제작: Blendi Bylygbashi (Patch @blendi), Majid Manzarpour (Dungeon Forge) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/dont-look-away
+- 비고: stone/stonework(석재 셰이더·기둥·리브·포장), contact-shadows, flashlight·illumination, angels·visibility(보이는 동안 멈추는 천사, 반사 포함 시야 판정), temporal, navigation(길찾기), horror, audio(코드 합성 소리), power-cabinet, world(예배당 구성) 등 src 전체 TS 1,900줄
