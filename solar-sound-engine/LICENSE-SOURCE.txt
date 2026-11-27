@@ -1,0 +1,5 @@
+MIT verified in source LICENSE and LICENCE-NOTES.md ("Code MIT"; "Nothing here has no stated source").
+Scope: fully synthesized WebAudio sound engine (wind, engine fire, footsteps, ambience)
+Source: https://patch.gg/games/blendi/solar
+Repo: https://git.patch.gg/blendi/solar.git commit 474f691
+Collected 2026-11-27.

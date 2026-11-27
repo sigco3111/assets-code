@@ -1,0 +1,5 @@
+MIT verified in source LICENSE and LICENCE-NOTES.md ("Code MIT"; "Nothing here has no stated source").
+Scope: procedural painted planet world (air/sky/land/grass/trees/flowers/water/moon/stars)
+Source: https://patch.gg/games/blendi/solar
+Repo: https://git.patch.gg/blendi/solar.git commit 474f691
+Collected 2026-11-27.

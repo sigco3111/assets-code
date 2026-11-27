@@ -5,6 +5,26 @@
 
 ## 수록 팩
 
+### Solar 절차적 행성 월드 코드
+- 파일: `solar-painted-world/solar-painted-world.zip` (JavaScript 17개: 대기 산란 하늘·지형·풀·나무·꽃·호수·달·태양계·나무 그림자 커버맵·행성 표면 걷기)
+- 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/solar
+- 비고: 외부 텍스처·모델 없이 코드로 그린 구형 소행성 월드. 게임 결합 참고용 원본, three import
+
+### Solar 우주선 비행·자동조종·조종석 코드
+- 파일: `solar-ship-flight/solar-ship-flight.zip` (JavaScript 4개: 뉴턴 비행·자동조종·조종석 다이얼/착륙 글라스·통합 입력)
+- 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/solar
+- 비고: 게임 결합 참고용 원본, three import
+
+### Solar 펜 스트로크 레터링·인쇄 코드
+- 파일: `solar-hand-lettering/solar-hand-lettering.zip` (JavaScript 3개: 획 단위 손글씨 엔진·선박 인쇄물(차트/다이얼)·키 안내 타일)
+- 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/solar
+- 비고: 폰트 파일 없이 문자를 코드 획으로 그림. 영문 대문자 위주. 참고용 원본
+
+### Solar 합성 사운드 엔진
+- 파일: `solar-sound-engine/solar-sound-engine.zip` (JavaScript 1개: 바람·엔진·발소리·환경음 전량 WebAudio 합성 sound.js)
+- 제작: Patch (@blendi) / 라이선스: MIT / 원본: https://patch.gg/games/blendi/solar
+- 비고: 녹음 없이 코드만으로 동작(원작 ?bare). Sonniss 녹음은 재배포 금지로 미포함. 참고용 원본
+
 ### Starember Field Render Modules
 - 파일: `starember-field-render/starember-field-render.zip` (TypeScript 9개: 툰 셰이딩·외곽선, 昼夜 하늘, 물, 풀, 파티클 이펙트, 지형·노이즈, 지오메트리·수학 유틸)
 - 제작: weit0529 / 라이선스: MIT / 원본: https://github.com/weit0529/gamedemo_by_Fable5.2

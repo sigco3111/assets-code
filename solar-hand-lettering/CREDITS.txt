@@ -1,0 +1,6 @@
+Original work: Solar by @blendi (Patch)
+https://patch.gg/games/blendi/solar
+Source: https://git.patch.gg/blendi/solar.git (commit 474f691)
+Code license: MIT (Copyright (c) 2026 Patch). Keep the MIT notice (LICENSE.txt).
+NOT included: the Sonniss GDC recordings (not redistributable; not in the source repo either).
+Collected 2026-11-27.
