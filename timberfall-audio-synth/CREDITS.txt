@@ -1,0 +1,4 @@
+sounds.ts: (c) 2026 Patch; portions (c) 2026 Steven Bobyn (three-voxel-destruction via Brickfall). MIT.
+Sonniss GDC recorded layers excluded (non-redistributable as files).
+Collected from Timberfall by Patch (@blendi): https://patch.gg/games/blendi/timberfall ,
+source https://git.patch.gg/blendi/timberfall.git (LICENSE, MIT). Collected 2026-11-27.

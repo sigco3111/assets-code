@@ -1,0 +1,15 @@
+{
+ "name": "Timberfall 합성 사운드 엔진 (WebAudio, MIT)",
+ "slug": "timberfall-audio-synth",
+ "zip": "timberfall-audio-synth.zip",
+ "file": "timberfall-audio-synth/timberfall-audio-synth.zip",
+ "author": "Patch (@blendi)",
+ "url": "https://patch.gg/games/blendi/timberfall",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Patch, portions Steven Bobyn — 저작권·허가 고지 유지",
+ "date": "2026-11-27",
+ "tags": "code,typescript,webaudio,audio,synth,sfx,procedural,footsteps,tools,ui,mixer",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (오디오)",
+ "notes": "sounds.ts 1,350줄: 그라인더·발소리·도구·경보·UI 전량 합성+레이어 믹스. Sonniss 녹음 98개는 재배포 금지라 제외(코드는 없어도 동작). 단독 실행 미검증"
+}

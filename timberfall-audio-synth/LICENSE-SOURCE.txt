@@ -1,0 +1,6 @@
+License source: Timberfall repository LICENSE (MIT, https://git.patch.gg/blendi/timberfall.git):
+"Copyright (c) 2026 Patch. Portions (src/render/sky.ts, src/fx/particles.ts, src/audio/sounds.ts)
+Copyright (c) 2026 Steven Bobyn, from three-voxel-destruction by way of Brickfall, under the same licence."
+The Sonniss GDC recordings the released game layers on top are NOT in this pack: their licence allows
+use in a game but not passing them on as sound files (see the repo's MISSING_ASSETS.md).
+Checked 2026-11-27.
