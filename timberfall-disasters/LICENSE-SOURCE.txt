@@ -1,0 +1,2 @@
+License source: Timberfall repository LICENSE (MIT, https://git.patch.gg/blendi/timberfall.git):
+"Copyright (c) 2026 Patch." Checked 2026-11-27.

@@ -1,0 +1,3 @@
+src/disasters/*: (c) 2026 Patch. MIT.
+Collected from Timberfall by Patch (@blendi): https://patch.gg/games/blendi/timberfall ,
+source https://git.patch.gg/blendi/timberfall.git (LICENSE, MIT). Collected 2026-11-27.

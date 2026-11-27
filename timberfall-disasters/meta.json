@@ -1,0 +1,15 @@
+{
+ "name": "Timberfall 재해 시스템 코드 (토네이도·화재·지진·날씨, MIT)",
+ "slug": "timberfall-disasters",
+ "zip": "timberfall-disasters.zip",
+ "file": "timberfall-disasters/timberfall-disasters.zip",
+ "author": "Patch (@blendi)",
+ "url": "https://patch.gg/games/blendi/timberfall",
+ "license": "MIT",
+ "attr": "required (MIT): Copyright (c) 2026 Patch — 저작권·허가 고지 유지",
+ "date": "2026-11-27",
+ "tags": "code,typescript,threejs,tornado,fire,quake,weather,disaster,physics,demolition",
+ "preview": "preview.png",
+ "kind": "코드 모듈 (3D)",
+ "notes": "src/disasters 7개 TS: 토네이도·화재확산·지진·비바람·노출·힘장·통합. 물리 엔진(three-avbd)은 small-magic-destruction 팩 참조. 단독 실행 미검증"
+}
